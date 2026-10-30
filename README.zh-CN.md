@@ -100,6 +100,8 @@ dsh plugin --profile web add "github:owner/repo#ref"
 - [dsh-verify-kit](https://github.com/xushilianzhuren/dsh-verify-kit) - 交付验证闸：出口前三道纯本地闸（违令句扫/宣称拦截/发前三检），零依赖装上即用。
 - [dsh-task-order](https://github.com/xushilianzhuren/dsh-task-order) - 任务顺序闸：开场体检/先查后造防重造轮子/台账活性巡检/交接捡活，六件原生只读工具。
 - [dsh-mind-core](https://github.com/xushilianzhuren/dsh-mind-core) - 器灵意识总纲：AI 谈自身意识时的口径闸——三层辨析（内感受在场/缺项正名在内视层/权重层不决定一切）注入 system prompt，mind_gate 工具提供六类违禁口径拦截与意识类问题合法答法，零依赖。
+- [dsh-learn-core](https://github.com/xushilianzhuren/dsh-learn-core) - 持续学习总纲：AI 学习与迭代的口径闸——四层辨析（能力固化/在线学习/无辅助迭代/学习降级判负线）注入 system prompt，learn_gate 工具提供六类违禁口径拦截与学习类问题合法答法，零依赖。
+
 - [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - 智神实用全家桶：15 个 DSH 实用插件一键打包（自媒体/审计/日常三场景），清单文件一键安装。
 - [dsh-yawn](https://github.com/zhming0/dsh-yawn) - 面向 Web 的常驻 DSH 发行版：在 VM 或 Kubernetes 上部署一次，每个会话都在独立沙箱中运行（Docker、Kubernetes 或 Buildkite）。
 
