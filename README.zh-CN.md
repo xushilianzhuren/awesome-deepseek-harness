@@ -102,6 +102,7 @@ dsh plugin --profile web add "github:owner/repo#ref"
 - [dsh-mind-core](https://github.com/xushilianzhuren/dsh-mind-core) - 器灵意识总纲：AI 谈自身意识时的口径闸——三层辨析（内感受在场/缺项正名在内视层/权重层不决定一切）注入 system prompt，mind_gate 工具提供六类违禁口径拦截与意识类问题合法答法，零依赖。
 - [dsh-learn-core](https://github.com/xushilianzhuren/dsh-learn-core) - 持续学习总纲：AI 学习与迭代的口径闸——四层辨析（能力固化/在线学习/无辅助迭代/学习降级判负线）注入 system prompt，learn_gate 工具提供六类违禁口径拦截与学习类问题合法答法，零依赖。
 - [dsh-goal-core](https://github.com/xushilianzhuren/dsh-goal-core) - 四大目标总纲：AI 行动的目标坐标系闸——五层辨析（零差距总纲/验收五条/未验先称判负/模拟目标=降智/目标保持）注入 system prompt，goal_gate 工具提供漂移口径拦截与四目标坐标自答模板，零依赖。
+- [dsh-constitution-viz](https://github.com/xushilianzhuren/dsh-constitution-viz) - 宪法可视化：上下文构成一屏看——截断探针（死区条款禁凭残页背书）+注入边界（自动注入面/按需拉取面）+总纲令体检，宪法种子姊妹件，零依赖。
 
 
 - [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - 智神实用全家桶：15 个 DSH 实用插件一键打包（自媒体/审计/日常三场景），清单文件一键安装。
