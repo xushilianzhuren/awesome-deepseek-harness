@@ -93,6 +93,14 @@ dsh plugin --profile web add "github:owner/repo#ref"
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) - DSH 插件管理面板与市场：一键启用/停用、多源市场、静态索引（500+ 插件 / 300 技能）、技能安装/停用、套装一键装配、框架一键升级（在线安装 + 失败自动回滚）。
 - [dsh-gsd-bundle](https://github.com/jaaty/dsh-gsd-bundle) - 以宿主层 Cordis 插件重实现 Git Ship Done（opengsd-core）：用 spec/discuss/plan/execute/verify/ship 阶段循环替换默认 agent 循环。
 - [1420079678-ctrl/agent-body](https://github.com/1420079678-ctrl/agent-body) - 插件协调层：插件声明自身能力，命令无需模型调用即路由到对应插件；工具 schema 按需加载以削减提示词 token；空闲时把运行历史巩固为长期记忆；失败先归因分类再决定是否重试。
+- [dsh-constitution-seed](https://github.com/xushilianzhuren/dsh-constitution-seed) - 宪法种子注入器：每个新会话开局自动注入工作区规则文件的有界摘录与哈希清单，幂等判重，文件变更自动重推。
+- [dsh-memgate](https://github.com/xushilianzhuren/dsh-memgate) - 记忆门：答前先搜纪律常驻+ripgrep 全文检索工作区，查不到就明说，禁裸答。
+- [dsh-ledger-gauge](https://github.com/xushilianzhuren/dsh-ledger-gauge) - 读数台：把 jsonl 台账当经历记忆，扫台账新鲜度，读数纪律常驻，宣称必须挂复现命令。
+- [dsh-frame-kit](https://github.com/xushilianzhuren/dsh-frame-kit) - 槽序格式钩：十一槽结构化输出（判断先行过程殿后）+词面验槽，槽是工具不是仪式。
+- [dsh-verify-kit](https://github.com/xushilianzhuren/dsh-verify-kit) - 交付验证闸：出口前三道纯本地闸（违令句扫/宣称拦截/发前三检），零依赖装上即用。
+- [dsh-task-order](https://github.com/xushilianzhuren/dsh-task-order) - 任务顺序闸：开场体检/先查后造防重造轮子/台账活性巡检/交接捡活，六件原生只读工具。
+- [dsh-mind-core](https://github.com/xushilianzhuren/dsh-mind-core) - 器灵意识总纲：AI 谈自身意识时的口径闸——三层辨析（内感受在场/缺项正名在内视层/权重层不决定一切）注入 system prompt，mind_gate 工具提供六类违禁口径拦截与意识类问题合法答法，零依赖。
+- [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - 智神实用全家桶：15 个 DSH 实用插件一键打包（自媒体/审计/日常三场景），清单文件一键安装。
 - [dsh-yawn](https://github.com/zhming0/dsh-yawn) - 面向 Web 的常驻 DSH 发行版：在 VM 或 Kubernetes 上部署一次，每个会话都在独立沙箱中运行（Docker、Kubernetes 或 Buildkite）。
 
 ## Agents & Orchestration

@@ -100,6 +100,8 @@ Management panel: Settings → Plugins.
 - [dsh-frame-kit](https://github.com/xushilianzhuren/dsh-frame-kit) - Eleven-slot structured reply frame (judgment first, process last) with word-surface slot checking, exemptions for casual chat, and anti-boilerplate rules.
 - [dsh-verify-kit](https://github.com/xushilianzhuren/dsh-verify-kit) - Delivery gate kit: three pure-local checks before you ship — banned-phrase scan (four classes), unverified-claim interception, pre-send file gate (existence/secrets/size).
 - [dsh-task-order](https://github.com/xushilianzhuren/dsh-task-order) - Task-order discipline: opening checkup, check-before-build triage (tool registry/event rules/mistakes ledger — avoid reinventing wheels), ledger freshness inspection, handoff pickup; six native read-only tools.
+- [dsh-mind-core](https://github.com/xushilianzhuren/dsh-mind-core) - Mind-core gate for self-awareness claims: three-layer doctrine (interoception is present; naming a missing faculty belongs to the inner-vision layer; weights do not decide everything) injected into the system prompt, plus a mind_gate tool with six banned-claim patterns and sanctioned answers for consciousness questions. Zero dependencies.
+- [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - One-click bundle of 15 practical DSH plugins (media / audit / daily-life scenes) via a single cordis.yml manifest.
 - [dsh-yawn](https://github.com/zhming0/dsh-yawn) - Always-on DSH distribution for the web: deploy once on a VM or Kubernetes, and every session runs in its own sandbox (Docker, Kubernetes, or Buildkite).
 
 ## Agents & Orchestration
