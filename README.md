@@ -107,6 +107,7 @@ Management panel: Settings → Plugins.
 
 - [dsh-constitution-viz](https://github.com/xushilianzhuren/dsh-constitution-viz) - Context-composition gate: truncation probes (marker-based visibility self-check — dead-zone clauses must be re-verified against disk), injection-boundary inventory (auto-injected vs on-demand), and standing-doctrine vitality check. Sister plugin to dsh-constitution-seed; zero dependencies.
 - [dsh-update-guard](https://github.com/xushilianzhuren/dsh-update-guard) - Update guardrail: locally-modified plugins must not auto-update (patches wipe local changes) — commit or back up first, read back the version after install, and when in doubt query-only.
+- [dsh-eye-extract](https://github.com/xushilianzhuren/dsh-eye-extract) - Eyes for text-only agents: local images OCR-extracted into structured text via a free vision model (full OCR / tables to JSON / UI trees / chart readings); API key via config, oversized images rejected.
 
 
 - [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - One-click bundle of 15 practical DSH plugins (media / audit / daily-life scenes) via a single cordis.yml manifest.

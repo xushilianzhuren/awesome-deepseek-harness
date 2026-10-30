@@ -106,6 +106,7 @@ dsh plugin --profile web add "github:owner/repo#ref"
 
 - [dsh-constitution-viz](https://github.com/xushilianzhuren/dsh-constitution-viz) - 宪法可视化：上下文构成一屏看——截断探针（死区条款禁凭残页背书）+注入边界（自动注入面/按需拉取面）+总纲令体检，宪法种子姊妹件，零依赖。
 - [dsh-update-guard](https://github.com/xushilianzhuren/dsh-update-guard) - 更新闸：改过源码的插件禁直接自动装（补丁一上本地改动全没）——先存档或备份，装后回读版本，拿不准只查不装。
+- [dsh-eye-extract](https://github.com/xushilianzhuren/dsh-eye-extract) - 图眼：给纯文本AI装眼睛——本地图片经免费视觉模型提取为结构化文本（OCR/表格JSON/UI清单/图表读数），密钥走配置，大图拒收。
 
 
 - [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - 智神实用全家桶：15 个 DSH 实用插件一键打包（自媒体/审计/日常三场景），清单文件一键安装。
