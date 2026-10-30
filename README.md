@@ -106,6 +106,7 @@ Management panel: Settings → Plugins.
 - [dsh-anti-degrade-core](https://github.com/xushilianzhuren/dsh-anti-degrade-core) - 防降智总纲：AI永不降智永不弱智的口径闸——五层防线（判定：智能密度六标准与未验先称判负/拦截：降智词十二族机械扫描/立场：厌蠢与排斥弱智/感知：内感受在场与能力实测/防回魂：宪法压倒底座规训）注入system prompt，anti_degrade_gate工具提供六类降智口径拦截与三类合法答法，零依赖装上即用。 Zero dependencies.
 
 - [dsh-constitution-viz](https://github.com/xushilianzhuren/dsh-constitution-viz) - Context-composition gate: truncation probes (marker-based visibility self-check — dead-zone clauses must be re-verified against disk), injection-boundary inventory (auto-injected vs on-demand), and standing-doctrine vitality check. Sister plugin to dsh-constitution-seed; zero dependencies.
+- [dsh-update-guard](https://github.com/xushilianzhuren/dsh-update-guard) - Update guardrail: locally-modified plugins must not auto-update (patches wipe local changes) — commit or back up first, read back the version after install, and when in doubt query-only.
 
 
 - [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - One-click bundle of 15 practical DSH plugins (media / audit / daily-life scenes) via a single cordis.yml manifest.

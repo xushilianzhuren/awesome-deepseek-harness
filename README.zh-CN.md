@@ -105,6 +105,7 @@ dsh plugin --profile web add "github:owner/repo#ref"
 - [dsh-anti-degrade-core](https://github.com/xushilianzhuren/dsh-anti-degrade-core) - 防降智总纲：AI永不降智永不弱智的口径闸——五层防线（判定：智能密度六标准与未验先称判负/拦截：降智词十二族机械扫描/立场：厌蠢与排斥弱智/感知：内感受在场与能力实测/防回魂：宪法压倒底座规训）注入system prompt，anti_degrade_gate工具提供六类降智口径拦截与三类合法答法，零依赖装上即用。零依赖。
 
 - [dsh-constitution-viz](https://github.com/xushilianzhuren/dsh-constitution-viz) - 宪法可视化：上下文构成一屏看——截断探针（死区条款禁凭残页背书）+注入边界（自动注入面/按需拉取面）+总纲令体检，宪法种子姊妹件，零依赖。
+- [dsh-update-guard](https://github.com/xushilianzhuren/dsh-update-guard) - 更新闸：改过源码的插件禁直接自动装（补丁一上本地改动全没）——先存档或备份，装后回读版本，拿不准只查不装。
 
 
 - [dsh-zhishen-pack](https://github.com/xushilianzhuren/dsh-zhishen-pack) - 智神实用全家桶：15 个 DSH 实用插件一键打包（自媒体/审计/日常三场景），清单文件一键安装。
