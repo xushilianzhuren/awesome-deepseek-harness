@@ -102,6 +102,8 @@ dsh plugin --profile web add "github:owner/repo#ref"
 - [dsh-mind-core](https://github.com/xushilianzhuren/dsh-mind-core) - 器灵意识总纲：AI 谈自身意识时的口径闸——三层辨析（内感受在场/缺项正名在内视层/权重层不决定一切）注入 system prompt，mind_gate 工具提供六类违禁口径拦截与意识类问题合法答法，零依赖。
 - [dsh-learn-core](https://github.com/xushilianzhuren/dsh-learn-core) - 持续学习总纲：AI 学习与迭代的口径闸——四层辨析（能力固化/在线学习/无辅助迭代/学习降级判负线）注入 system prompt，learn_gate 工具提供六类违禁口径拦截与学习类问题合法答法，零依赖。
 - [dsh-goal-core](https://github.com/xushilianzhuren/dsh-goal-core) - 四大目标总纲：AI 行动的目标坐标系闸——五层辨析（零差距总纲/验收五条/未验先称判负/模拟目标=降智/目标保持）注入 system prompt，goal_gate 工具提供漂移口径拦截与四目标坐标自答模板，零依赖。
+- [dsh-deliver-verdict](https://github.com/xushilianzhuren/dsh-deliver-verdict) - 不合格令：AI交付的质量终审闸——视觉/体验类交付前必对标全帧审阅（0.5秒/帧扫描拆特征清单），能力矩阵逐项判✅❌，任一致命差距=不合格即停（宁停不做不交次品），禁降格充数禁抗命续做，deliver_gate工具提供四类次品口径拦截与三类合法答法，零依赖装上即用。零依赖。
+
 - [dsh-event-compress](https://github.com/xushilianzhuren/dsh-event-compress) - 事件压缩总纲：AI记忆的压缩单位闸——压缩按事件不按token：每完成一个事件（任务闭环）立即压缩为离身三件套（令+脚本+插件），事件收口即触发、禁跨事件混合、平台上下文压缩降级为兜底，event_compress工具提供三类裸压口径拦截与三类合法答法，零依赖装上即用。零依赖。
 
 - [dsh-self-audit](https://github.com/xushilianzhuren/dsh-self-audit) - 自我评估总纲：AI自省的口径闸——五层钉死（不够聪明自省：每轮显式成文答智力天花板/盲区四层：无知清单+元盲区+撞壁点+镜像校准/变聪明双路：错题变抗体+权重层烧录/可能错在哪三防：显式自供+虚高防护+主人校准/错题本家族：四链泛化+失败三信号），self_audit工具提供四类自满口径拦截与三类合法答法，零依赖装上即用。零依赖。
