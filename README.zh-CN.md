@@ -815,6 +815,8 @@ dsh plugin --profile web add "github:owner/repo#ref"
 
 ## Plugin Ecosystem & Development
 
+- [xushilianzhuren/zhishen-harness market-golden](https://github.com/xushilianzhuren/zhishen-harness/tree/master/market-golden) - 插件市场定制金身：给官方插件市场加"已发布"页签（列作者名下全部 dsh-* 套件·星数/更新日期/一键安装）与排序条（星数/更新/名称）；整文件金身+锚点补丁器+看门狗 60 秒自愈，市场插件升级覆盖后自动恢复。
+
 - [ymck-x/dsh-plugin-index](https://github.com/ymck-x/dsh-plugin-index) - DSH 内的插件索引：收录 1 万余个按 `package.json` 里 `dsh.bundle` 声明校验过的插件，支持一键安装，另有配套网站。
 - [ouli-1242/dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) - 一个设置面板，统一管理 MCP、技能、记忆、子智能体、提示词和归档会话；可自定义搭配场景，一个场景即可切换整个环境；Agent 也能帮你操作这个插件。
 - [SunQingyuan0/Kabutack](https://github.com/SunQingyuan0/Kabutack) - 基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。

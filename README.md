@@ -818,6 +818,8 @@ Management panel: Settings → Plugins.
 
 ## Plugin Ecosystem & Development
 
+- [xushilianzhuren/zhishen-harness market-golden](https://github.com/xushilianzhuren/zhishen-harness/tree/master/market-golden) - Market customization golden copy: adds a "Published" tab (lists all dsh-* suites by the author with stars/dates/one-click install) and a sort bar (stars/updated/name) to the official plugin market; full-file golden + anchor patcher + watchdog auto-restore within 60s after market plugin upgrades.
+
 - [ymck-x/dsh-plugin-index](https://github.com/ymck-x/dsh-plugin-index) - In-DSH plugin index: lists over 10,000 third-party plugins checked against the `dsh.bundle` manifest in their `package.json`, with one-click install and a companion website.
 - [ouli-1242/dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) - One settings panel managing MCP, skills, memory, subagents, prompts and sessions; customize scene combos to switch the whole environment; the Agent can also operate this plugin for you.
 - [SunQingyuan0/Kabutack](https://github.com/SunQingyuan0/Kabutack) - Role-based manager for DSH plugins/Skills/MCP: bundle capabilities into “roles” and hot-switch them from the Web UI.
